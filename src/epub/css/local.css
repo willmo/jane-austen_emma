@@ -10,6 +10,13 @@ b{
 	font-weight: normal;
 }
 
+section[epub|type~="dedication"] p{
+	margin-top: 5em;
+	font-variant: small-caps;
+	text-align: center;
+	text-indent: 0;
+}
+
 [epub|type~="se:letter.dateline"]{
 	margin-top: 1em;
 	text-align: right;
