@@ -63,10 +63,7 @@ p span.i1{
 	text-align: right;
 }
 
-[epub|type~="z3998:sender"]{
-	text-align: right;
-}
-
 .signature{
+	text-align: right;
 	font-variant: small-caps;
 }
