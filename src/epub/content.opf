@@ -3,8 +3,8 @@
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/jane-austen/emma</dc:identifier>
 		<dc:date>2018-03-21T00:17:13Z</dc:date>
-		<meta property="dcterms:modified">2018-03-21T00:17:13Z</meta>
-		<meta property="se:revision-number">1</meta>
+		<meta property="dcterms:modified">2018-04-03T00:17:46Z</meta>
+		<meta property="se:revision-number">2</meta>
 		<dc:rights>The source text and artwork in this ebook edition are believed to be in the U.S. public domain. This ebook edition is released under the terms in the CC0 1.0 Universal Public Domain Dedication, available at https://creativecommons.org/publicdomain/zero/1.0/. For full license information see the Uncopyright file included at the end of this ebook.</dc:rights>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
@@ -62,7 +62,7 @@
 		<dc:source>https://archive.org/details/emmaanovelinthr00austgoog</dc:source>
 		<dc:source>https://archive.org/details/emmaanovelinthr01austgoog</dc:source>
 		<meta property="se:production-notes">The Gutenberg transcription is based on page scans of a 3-volume edition which restarts the chapter numbering with each volume. I have combined the volumes into one and run the chapter numbers sequentially. The original Volume 1 ends at my chapter 18 and Volume 2 ends at my chapter 36. Subtracting these numbers will give you the appropriate chapter in the page scans: eg my chapter 40 matches Volume III, Chapter IV since 40 - 36 = 4.</meta>
-		<meta property="se:word-count">160853</meta>
+		<meta property="se:word-count">160852</meta>
 		<meta property="se:reading-ease.flesch">71.24</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Emma</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/jane-austen_emma</meta>
